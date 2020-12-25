@@ -8,7 +8,7 @@ Created a chat application using Node.js, Express, Socket.io, Bad-words, Mustach
 
 ## Deployed
 
-The application is deployed on Heroku, [https://nopi-chat-app.herokuapp.com/](https://nopi-chat-app.herokuapp.com/). User can access the website and start chatting with their friends in their specific room.
+The application is deployed on Heroku, [https://nopi-chat-app.herokuapp.com/](https://nopi-chat-app.herokuapp.com/). User can access the website and start chatting with their friends in their specific room, and even send each other their location. 
 
 ## Installing
 
