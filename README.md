@@ -4,11 +4,11 @@ Andrew Mead - The Complete Node.js Developer Course
 
 ## Description
 
-Created a chat application using Node.js, Express, Socket.io, Bad-words, Mustache, Moment, and QS.
+Created a chat application using Node.js, Express, Socket.io, Bad-words, Mustache, Moment, and QS. The chat app uses the Socket.io library so that users can join a room and chat with individuals in that specific room. Current features include: join a room, send messages in that room in bidirectional ways, as well as send geolocation information. When users enter or exit the room, the room list updates and an Admin message is broadcast to the users in that room. Additional features that could be added includes adding a list of current active rooms where other user can pick and join, and making the username and room names unique and case-insensitive.
 
 ## Deployed
 
-The application is deployed on Heroku, [https://nopi-chat-app.herokuapp.com/](https://nopi-chat-app.herokuapp.com/). User can access the website and start chatting with their friends in their specific room, and even send each other their location. 
+The application is deployed on Heroku, [https://nopi-chat-app.herokuapp.com/](https://nopi-chat-app.herokuapp.com/). User can utilize the website and start chatting with their friends in their specific room, and even send each other their location. 
 
 ## Installing
 
